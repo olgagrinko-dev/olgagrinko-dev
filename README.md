@@ -1,4 +1,9 @@
-### Hi there, I'm Olga 👋
+                                                               ### Hi there, I'm Olga 👋
+✔️ JavaScript developer with 1 year of experience in software application development.                                                             
+✔️ Skilled in Node.js and Express for back-end development; front-end technologies such as React and Redux.
+✔️ Experienced in utilizing databases like PostgreSQL, MySQL, and MongoDB.
+✔️ Proficient in utilizing testing frameworks such as Jest and Mocha, with expertise in conducting integration tests for API endpoints.
+✔️ Deep understanding of object-oriented programming principles, implementation of SOLID and REST principle.
 
 <!--
 **olgagrinko-dev/olgagrinko-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
