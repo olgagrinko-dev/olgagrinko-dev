@@ -10,6 +10,12 @@
 
 ✔️ Deep understanding of object-oriented programming principles, implementation of SOLID and REST principle.
 
+
+### My Stats :
+
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=olgagrinko-dev"> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olgagrinko-dev&layout=compact">|
+| ------------- | ------------- |
+
 <!--
 **olgagrinko-dev/olgagrinko-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
