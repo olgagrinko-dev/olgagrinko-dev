@@ -10,6 +10,9 @@
 
 ✔️ Deep understanding of object-oriented programming principles, implementation of SOLID and REST principle.
 
+### 🤝Social Networks:
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/checkpoint/lg/login-challenge-submit?_l=ru_RU)
 
 ### My Stats :
 
