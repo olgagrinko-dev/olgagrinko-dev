@@ -10,7 +10,9 @@
 
 ✔️ Deep understanding of object-oriented programming principles, implementation of SOLID and REST principle.
 
-Feel free to reach out to me at olgagrinko.87@mail.ru. I am always open to exciting collaborations and opportunities. Let's build amazing things together!
+💬 Ask me about anything, I am happy to help!
+
+📫How to reach me: 
 
 ### Social Networks:
 
