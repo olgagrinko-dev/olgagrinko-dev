@@ -10,9 +10,9 @@
 
 ✔️ Deep understanding of object-oriented programming principles, implementation of SOLID and REST principle.
 
-💬 Ask me about anything, I am happy to help!
+💬 Ask me about anything, I am happy to help! 
 
-📫How to reach me: olgagrinko.87@mail.ru
+📫 How to reach me: olgagrinko.87@mail.ru
 
 ### Social Networks:
 
