@@ -12,7 +12,7 @@
 
 💬 Ask me about anything, I am happy to help!
 
-📫How to reach me: 
+📫How to reach me: olgagrinko.87@mail.ru
 
 ### Social Networks:
 
