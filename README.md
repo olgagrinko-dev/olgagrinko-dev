@@ -15,9 +15,9 @@
 
 📫 How to reach me: olgagrinko.87@mail.ru
 
-### Social Networks:
-
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/checkpoint/lg/login-challenge-submit?_l=ru_RU)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/olga-grinko-658871263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="olgagrinko-dev" height="30" width="40" /></a>
 <a href="https://www.instagram.com/oly.hrynko/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vvladichhh" height="30" width="40" /></a>
 
 ### My Stats :
