@@ -1,4 +1,5 @@
-                                                                Hi there, I'm Olga 👋
+<h1 align="center">Hi 👋, I'm Olga Grinko</h1>
+<h3 align="center">I'm a Software Engineer / Javascript developer</h3>
                                                                 
 ✔️ JavaScript developer with 1 year of experience in software application development.   
 
@@ -17,6 +18,7 @@
 ### Social Networks:
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/checkpoint/lg/login-challenge-submit?_l=ru_RU)
+<a href="https://www.instagram.com/oly.hrynko/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vvladichhh" height="30" width="40" /></a>
 
 ### My Stats :
 |<img align="center" src="https://github-readme-stats.vercel.app/api?username=olgagrinko-dev"> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olgagrinko-dev&layout=compact">|
