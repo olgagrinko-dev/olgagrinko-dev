@@ -13,7 +13,7 @@
 
 💬 Ask me about anything, I am happy to help! 
 
-📫 How to reach me: olgagrinko.87@mail.ru
+📫 How to reach me: grinkowork17@mail.ru
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
